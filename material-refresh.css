@@ -13,7 +13,6 @@
 .mui-refresh-main {
   position: fixed;
   top: 0;
-  -webkit-perspective: 1000;
   -webkit-backface-visibility: hidden;
   opacity: 0;
   -webkit-transform: scale(0);
